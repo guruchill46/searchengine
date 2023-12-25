@@ -8,6 +8,7 @@ const Contact=()=>{
             </h1>
             <p>
                 Hi this is an sample Contact us page.
+                Guru
             </p>
         </div>
     )
