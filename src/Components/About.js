@@ -25,7 +25,7 @@ const About=()=>{
                 About Us
             </h1>
             <p>
-                Hi this is an sample about page.
+                Hi this is an sample about page. this is a testing App and also learning.
             </p>
         </div>
     )
